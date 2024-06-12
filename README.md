@@ -1,3 +1,3 @@
 # first-imran
-This is my First Git Code for testing
-Author Name: Imran Naeem
+This is my First Git Code for testing <br>
+Author Name: <b> Imran Naeem </b>
